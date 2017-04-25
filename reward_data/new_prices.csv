@@ -1,0 +1,223 @@
+level;category;file;name;type;price;power;put_dep;off_dep;category_name;prices
+0;0;Gruener Irokese_115_17_96_125_196.png;Gruener Irokese;hat;184;0;;;headdress;460
+0;0;Pilzmuetze_62_35_195_156_194.png;Pilzmuetze;hat;184;0;;;headdress;460
+0;0;Stirnband_113_92_128_54_193.png;Stirnband;hat;184;0;;feather1|feather2|feather3|feather4;headdress;150
+0;0;Friedenstaube_130_22_23_74_190.png;Friedenstaube;feather1;50;0;Stirnband;;headdress;160
+0;0;Karrotenvogel_91_17_42_123_191.png;Karrotenvogel;feather2;50;0;Stirnband;;headdress;200
+0;0;Schokobaerfeder_80_38_238_126_192.png;Schokobaerfeder;feather3;50;0;Stirnband;;headdress;180
+0;0;Tauber Adler_29_36_90_80_189.png;Tauber Adler;feather4;50;0;Stirnband;;headdress;460
+0;1;Mentor Manitu Shirt_113_222_86_99_65.png;Mentor Manitu Shirt;shirt;118;0;;;shirt;230
+0;1;Murkso Mio_113_222_86_99_49.png;Murkso Mio;shirt;118;0;;;shirt;230
+0;2;Fisch_133_254_59_46_59.png;Fisch;shirtlogo;68;0;;;shirtlogo;77
+0;2;Gummis Tiga_123_253_71_62_54.png;Gummis Tiga;shirtlogo;68;0;;;shirtlogo;77
+0;3;Gruener Grantler_106_294_111_80_107.png;Gruener Grantler;belt;152;0;;;belt;368
+0;3;Zauberbaer_94_308_122_63_113.png;Zauberbaer;belt;152;0;;;belt;368
+0;4;Ernst_78_306_149_74_41.png;Ernst;shorts;118;0;;;shorts;299
+0;5;Geht auch_100_379_123_63_32.png;Geht auch;socks;50;0;;;socks;115
+0;5;Lieblingsblau_100_378_122_63_29.png;Lieblingsblau;socks;50;0;;;socks;115
+0;5;Strumpf Ahoi_99_377_124_65_28.png;Strumpf Ahoi;socks;50;0;;;socks;115
+0;6;Rosa Riester_83_391_199_66_95.png;Rosa Riester;shoes;134;0;;;shoes;322
+0;7;Und Anton_202_150_14_21_17.png;Und Anton;earleft;68;0;;;face;100
+0;7;Gesichtle_128_101_74_110_6.png;Gesichtle;facelift;68;0;;tooth1|tooth2|tooth3|tooth4|tooth5|tooth6|tooth7;face;100
+0;7;Mut Zur Luecke_128_101_74_110_4.png;Mut Zur Luecke;facelift;68;0;;;face;100
+0;7;Gellebes_172_100_54_28_22.png;Gellebes;hairclip1;68;0;;;face;100
+0;7;Schnabel_119_151_91_66_207.png;Schnabel;mask;100;0;;;face;100
+0;7;Gesichtserker_119_149_95_54_206.png;Gesichtserker;nose;68;0;;;face;100
+0;7;Linker Oberreisser_137_177_7_8_7.png;Linker Oberreisser;tooth1;40;0;Gesichtle;;face;100
+0;7;Linker Seitenbeisser-_142_184_9_10_8.png;Linker Seitenbeisser-;tooth2;40;0;Gesichtle;;face;100
+0;7;Mittiger Oberreisser_155_177_6_9_10.png;Mittiger Oberreisser;tooth3;40;0;Gesichtle;;face;100
+0;7;Rechter Oberreisser_166_173_7_10_12.png;Rechter Oberreisser;tooth4;40;0;Gesichtle;;face;100
+0;7;Rechter Seitenbeisser_171_171_7_8_13.png;Rechter Seitenbeisser;tooth5;40;0;Gesichtle;;face;100
+0;7;Rechter unterreisser_159_182_7_9_11.png;Rechter unterreisser;tooth6;40;0;Gesichtle;;face;100
+0;7;Stumpferunterzahn_152_185_8_8_9.png;Stumpferunterzahn;tooth7;40;0;Gesichtle;;face;100
+0;8;Beschwoerbrauen_114_131_96_21_15.png;Beschwoerbrauen;glasses;168;0;;;glasses;414
+0;8;Zuckerknipser_124_132_73_38_209.png;Zuckerknipser;glasses;168;0;;;glasses;414
+0;9;Duden_121_221_72_85_136.png;Duden;pack;84;0;;;pack;209
+6;9;Martermurksepfahl_143_216_47_80_131.png;Martermurksepfahl;pack;84;0;;;pack;675
+0;10;Blauer Sturm_98_304_10_58_116.png;Blauer Sturm;chain;84;0;;chainend;chain;177
+0;10;Blaue Murksemurmel_86_331_30_37_122.png;Blaue Murksemurmel;chainend;40;0;chain;;chain;177
+0;11;Feuerarm_81_225_55_89_20.png;Feuerarm;armright;50;0;;;extremities;288
+0;11;Tapezierbuerste_193_193_28_70_148.png;Tapezierbuerste;gadgetarmleft;100;0;;;extremities;288
+0;11;Fahrradsattel_79_199_61_57_181.png;Fahrradsattel;gadgetarmright;100;0;;;extremities;288
+0;11;Federschutz_211_202_49_101_163.png;Federschutz;gadgetelbowleft;100;0;;;extremities;288
+0;11;Federschoner_68_228_43_52_139.png;Federschoner;gadgetelbowright;100;0;;;extremities;288
+0;11;Murkseschuetzer_75_241_41_45_143.png;Murkseschuetzer;gadgetelbowright;100;0;;;extremities;288
+0;11;Eckzaehne_195_277_29_24_176.png;Eckzaehne;wristleft;84;0;;;extremities;288
+0;11;Uhr_195_276_29_20_175.png;Uhr;wristleft;84;0;;;extremities;288
+0;11;Hand Held_94_269_27_30_173.png;Hand Held;wristright;84;0;;;extremities;288
+0;12;Grinse Arm_205_235_14_18_85.png;Grinse Arm;bandagearmleft;40;0;;;bandage;85
+0;12;Thumbs Up!_206_305_12_12_78.png;Thumbs Up!;bandagehandleft;40;0;;;bandage;85
+0;12;Am Knie_177_376_17_5_71.png;Am Knie;bandagelegleft;40;0;;;bandage;85
+0;13;Rechter Propeller_214_219_80_114_166.png;Rechter Propeller;gadgetelbowleft;218;0;;;other;800
+0;13;Flaches Duokular_116_128_94_58_216.png;Flaches Duokular;glasses;218;50;;;other;800
+1;0;Gelehrten Kappe_22_21_310_156_199.png;Gelehrten Kappe;hat;184;0;;;headdress;631
+1;0;Murksemeisterinnenbeschwoerkrone_20_15_274_153_205.png;Murksemeisterinnenbeschwoerkrone;hat;184;0;;;headdress;631
+1;1;Curasau_112_222_87_99_46.png;Curasau;shirt;118;0;;;shirt;315
+1;1;M_113_221_86_100_47.png;M;shirt;118;0;;;shirt;315
+1;2;G_126_251_56_64_63.png;G;shirtlogo;68;0;;;shirtlogo;105
+1;3;Bedenklicher Umschlinger_98_304_117_64_109.png;Bedenklicher Umschlinger;belt;152;0;;;belt;505
+1;3;Marie Sonnenschein_108_292_103_101_111.png;Marie Sonnenschein;belt;152;0;;;belt;505
+1;3;Piekserschlinger_89_301_149_71_114.png;Piekserschlinger;belt;152;0;;;belt;505
+1;3;Schnuffikuss_105_291_105_73_108.png;Schnuffikuss;belt;152;0;;;belt;505
+1;4;Grossmaul_77_306_149_74_42.png;Grossmaul;shorts;118;0;;;shorts;410
+1;4;Streifenkoenig_78_308_149_72_38.png;Streifenkoenig;shorts;118;0;;;shorts;410
+1;5;Dunkel Dinkel_100_379_122_63_27.png;Dunkel Dinkel;socks;50;0;;;socks;158
+1;6;Papas Heimpuschel_77_384_214_68_97.png;Papas Heimpuschel;shoes;134;0;;;shoes;442
+1;6;Piekserpantoffeln_72_393_179_54_100.png;Piekserpantoffeln;shoes;134;0;;;shoes;442
+1;7;Rotes Beschwohr_110_156_15_21_16.png;Rotes Beschwohr;earright;68;0;;;face;137
+1;7;Unterhauergrinsen_128_101_74_110_5.png;Unterhauergrinsen;facelift;68;0;;;face;137
+1;7;Mittengaenger_226_162_32_58_25.png;Mittengaenger;hairclip2;68;0;;;face;137
+6;7;Beschwoermaske_116_123_95_94_208.png;Beschwoermaske;mask;100;0;;;face;323
+1;8;Hingucker_117_128_98_57_215.png;Hingucker;glasses;168;0;;;glasses;568
+1;9;Murksemurmelnkette_134_216_59_62_129.png;Murksemurmelnkette;necklet;84;0;;;pack;287
+1;9;Brust Getraenk Apfel_139_221_58_74_126.png;Brust Getraenk Apfel;pack;84;0;;;pack;287
+1;9;Brustbeutel_119_220_80_75_127.png;Brustbeutel;pack;84;0;;;pack;287
+1;9;PEZSchiesser_146_220_38_67_130.png;PEZSchiesser;pack;84;0;;;pack;287
+1;10;DNA Daemon_78_316_43_66_120.png;DNA Daemon;chainend;40;0;chain;;chain;243
+1;11;Wassermurks_192_228_57_87_19.png;Wassermurks;armleft;50;0;;;extremities;394
+1;11;Karos_193_224_33_42_146.png;Karos;gadgetarmleft;100;0;;;extremities;394
+1;11;Murksehorn_195_191_48_72_150.png;Murksehorn;gadgetarmleft;100;0;;;extremities;394
+1;11;Schutzblech_190_178_90_83_149.png;Schutzblech;gadgetarmleft;100;0;;;extremities;394
+1;11;Blaue Schleife_82_197_51_63_180.png;Blaue Schleife;gadgetarmright;100;0;;;extremities;394
+1;11;Nasenhaarnashorn_101_193_38_62_185.png;Nasenhaarnashorn;gadgetarmright;100;0;;;extremities;394
+1;11;Odysee_100_213_41_41_183.png;Odysee;gadgetarmright;100;0;;;extremities;394
+1;11;Schulterhorn_109_195_27_61_184.png;Schulterhorn;gadgetarmright;100;0;;;extremities;394
+1;11;Gedaechtnisstuetzer_217_250_49_34_157.png;Gedaechtnisstuetzer;gadgetelbowleft;100;0;;;extremities;394
+1;11;Mentor Bruder Clown Nase_217_266_47_54_160.png;Mentor Bruder Clown Nase;gadgetelbowleft;100;0;;;extremities;394
+1;11;Murkseschuetzer-1_217_230_67_65_162.png;Murkseschuetzer-1;gadgetelbowleft;100;0;;;extremities;394
+1;11;Minischoner_74_252_33_20_140.png;Minischoner;gadgetelbowright;100;0;;;extremities;394
+1;11;Murksefreundschaftsbaenders_89_272_24_15_168.png;Murksefreundschaftsbaenders;wristright;84;0;;;extremities;394
+1;12;Grosser Murks_193_237_35_31_87.png;Grosser Murks;bandagearmleft;40;0;;;bandage;117
+1;12;Kinnstation_142_194_21_20_76.png;Kinnstation;bandagechin;40;0;;;bandage;117
+1;12;Elefant_224_264_25_24_84.png;Elefant;bandageelbowleft;40;0;;;bandage;117
+1;12;Auch_180_376_14_5_72.png;Auch;bandagelegleft;40;0;;;bandage;117
+1;12;Armonster_204_275_16_15_80.png;Armonster;bandagewristleft;40;0;;;bandage;117
+1;13;Multikularer Sphaerenbeabachter_112_129_102_62_217.png;Multikularer Sphaerenbeabachter;glasses;218;100;;;other;1097
+1;13;Unterarmmurksespaeher_70_254_61_55_174.png;Unterarmmurksespaeher;wristright;218;0;;;other;1097
+1;13;Minischnueffler_190_264_36_32_177.png;Minischnueffler;wristleft;150;0;;;other;1097
+1;14;Appareille Fotooho_121_213_72_90_134.png;Appareille Fotooho;photo;500;0;;photofilm;photo;379
+1;14;Fotofuelm_140_288_32_22_135.png;Fotofuelm;photofilm;100;0;photo;;photo;379
+2;0;Flux Cappy_82_62_129_122_195.png;Flux Cappy;hat;238;0;;;headdress;802
+2;0;Raserhelm_86_38_152_130_197.png;Raserhelm;hat;238;0;;;headdress;802
+2;0;Sonnenhut_48_28_237_136_202.png;Sonnenhut;hat;238;0;;;headdress;802
+2;1;Blaumann_113_222_86_99_48.png;Blaumann;shirt;152;0;;;shirt;401
+2;1;Pinky_112_221_86_100_50.png;Pinky;shirt;152;0;;;shirt;401
+2;2;Blitz_124_249_62_51_57.png;Blitz;shirtlogo;86;0;;;shirtlogo;134
+2;2;Kittymurks_141_258_41_41_61.png;Kittymurks;shirtlogo;86;0;;;shirtlogo;134
+2;2;Sonnenmurks_132_254_56_59_58.png;Sonnenmurks;shirtlogo;86;0;;;shirtlogo;134
+2;2;Turbo Kaefer_131_255_56_54_52.png;Turbo Kaefer;shirtlogo;86;0;;;shirtlogo;134
+2;3;Kittymurks Guerter_95_312_119_42_105.png;Kittymurks Guerter;belt;194;0;;;belt;641
+2;3;Lutscherschlinger_92_294_125_68_112.png;Lutscherschlinger;belt;194;0;;;belt;641
+2;4;Karomatisch_77_306_149_74_36.png;Karomatisch;shorts;152;0;;;shorts;521
+2;4;Wer sich traut!_77_306_150_73_39.png;Wer sich traut!;shorts;152;0;;;shorts;521
+2;5;Fast gleich_100_379_122_62_34.png;Fast gleich;socks;64;0;;;socks;200
+2;5;Herbstschwitzer_100_379_122_63_30.png;Herbstschwitzer;socks;64;0;;;socks;200
+2;6;Rolllaeufer_88_397_154_62_103.png;Rolllaeufer;shoes;172;0;;;shoes;561
+2;6;Sneakers_79_387_165_71_96.png;Sneakers;shoes;172;0;;;shoes;561
+2;7;Kringelbauch_121_311_67_19_18.png;Kringelbauch;belly;86;0;;;face;174
+2;7;Rotinnen_209_174_22_54_24.png;Rotinnen;hairclip3;86;0;;;face;174
+2;7;Beschwoerruessel_119_130_91_175_219.png;Beschwoerruessel;mask;130;0;;;face;174
+2;8;Monoknipser_125_135_68_30_210.png;Monoknipser;glasses;216;0;;;glasses;722
+2;9;Brust Getraenk Banane_139_221_58_74_125.png;Brust Getraenk Banane;pack;108;0;;;pack;364
+2;9;Drehknopf_119_218_82_72_132.png;Drehknopf;pack;108;0;;;pack;364
+2;10;Kitty Murks_85_324_35_39_118.png;Kitty Murks;chainend;52;0;chain;;chain;308
+2;11;Drehhebel_195_219_60_44_151.png;Drehhebel;gadgetarmleft;130;0;;;extremities;501
+2;11;Schulterschutz_195_221_30_43_152.png;Schulterschutz;gadgetarmleft;130;0;;;extremities;501
+2;11;Drei_94_212_45_45_187.png;Drei;gadgetarmright;130;0;;;extremities;501
+2;11;Kitty Murks Schoner_214_256_37_36_161.png;Kitty Murks Schoner;gadgetelbowleft;130;0;;;extremities;501
+6;11;Murkseschuetzer-2_209_245_46_49_165.png;Murkseschuetzer-2;gadgetelbowleft;130;0;;;extremities;928
+2;11;Albatross Trinker_27_240_85_88_142.png;Albatross Trinker;gadgetelbowright;130;0;;;extremities;501
+2;11;Rechter Untermschutz_187_276_38_26_178.png;Rechter Untermschutz;wristleft;108;0;;;extremities;501
+2;11;DNA Halter_93_275_22_22_171.png;DNA Halter;wristright;108;0;;;extremities;501
+2;11;Stoppuhr_93_259_27_35_169.png;Stoppuhr;wristright;108;0;;;extremities;501
+2;12;Schulterdreier_201_237_22_26_86.png;Schulterdreier;bandagearmleft;52;0;;;bandage;148
+2;12;Kinn Tripelette_139_192_46_22_73.png;Kinn Tripelette;bandagechin;52;0;;;bandage;148
+2;12;Kinnstern_147_194_38_16_74.png;Kinnstern;bandagechin;52;0;;;bandage;148
+2;12;Handdran_99_296_16_9_93.png;Handdran;bandagehandright;52;0;;;bandage;148
+2;12;Grinsekni_116_371_24_10_69.png;Grinsekni;bandagelegright;52;0;;;bandage;148
+2;12;Sonnenschein_205_275_15_16_81.png;Sonnenschein;bandagewristleft;52;0;;;bandage;148
+2;13;Linker Propeller_36_212_74_104_145.png;Linker Propeller;gadgetelbowright;280;0;;;other;1394
+2;13;Monokular_117_84_98_101_218.png;Monokular;glasses;280;150;;;other;1394
+2;13;Raketenschuhe_88_382_142_80_104.png;Raketenschuhe;shoes;280;0;;;other;1394
+3;0;Blondschopf_55_61_230_131_198.png;Blondschopf;hat;290;0;;;headdress;973
+3;0;Mumienkrone_69_11_186_160_204.png;Mumienkrone;hat;290;0;;;headdress;973
+3;1;Ringler_112_222_87_99_44.png;Ringler;shirt;184;0;;;shirt;486
+3;2;Jae!_131_258_53_46_56.png;Jae!;shirtlogo;106;0;;;shirtlogo;162
+3;2;Mentor Bruder Clown_123_249_72_72_62.png;Mentor Bruder Clown;shirtlogo;106;0;;;shirtlogo;162
+3;2;Sonnemond_135_253_52_50_60.png;Sonnemond;shirtlogo;106;0;;;shirtlogo;162
+3;2;Tutti Nase_128_256_62_52_55.png;Tutti Nase;shirtlogo;106;0;;;shirtlogo;162
+3;3;Verbogener Beschwoerkamm_28_290_291_46_67.png;Verbogener Beschwoerkamm;belt;238;0;;;belt;778
+3;4;Yeah!_77_307_149_73_37.png;Yeah!;shorts;184;0;;;shorts;632
+3;5;Miniringler_100_379_122_63_26.png;Miniringler;socks;80;0;;;socks;243
+3;5;Yo!!_100_379_122_62_33.png;Yo!!;socks;80;0;;;socks;243
+3;6;Mumienfusswickel_97_384_120_53_101.png;Mumienfusswickel;shoes;212;0;;;shoes;681
+3;6;Papas Strassentreter_78_394_216_56_94.png;Papas Strassentreter;shoes;212;0;;;shoes;681
+3;7;Murkseaugen_124_103_85_85_14.png;Murkseaugen;eyes;106;0;;;face;211
+3;7;Was Denn_129_101_74_110_3.png;Was Denn;facelift;106;0;;;face;211
+3;7;Treffer versenkt!_241_167_46_34_23.png;Treffer versenkt!;hairclip4;106;0;;;face;211
+3;8;Kulleraugenknipser_128_135_64_49_212.png;Kulleraugenknipser;glasses;264;0;;;glasses;875
+3;9;Brust Getraenk Erdbeere_139_221_58_74_123.png;Brust Getraenk Erdbeere;pack;132;0;;;pack;442
+3;10;Runder Rosa Reiter_96_303_11_59_115.png;Runder Rosa Reiter;chain;132;0;;chainend;chain;374
+3;10;Lilafant_74_331_48_39_121.png;Lilafant;chainend;64;0;chain;;chain;374
+3;11;Mumienschulterschuetzer_193_221_47_49_154.png;Mumienschulterschuetzer;gadgetarmleft;158;0;;;extremities;608
+3;11;Schulterdings_194_206_66_60_153.png;Schulterdings;gadgetarmleft;158;0;;;extremities;608
+3;11;Fishtank_98_203_41_57_182.png;Fishtank;gadgetarmright;158;0;;;extremities;608
+3;11;Klingender Schluesselanhaenger_214_258_47_52_158.png;Klingender Schluesselanhaenger;gadgetelbowleft;158;0;;;extremities;608
+3;11;Na-n alter Strumpf!_206_245_47_77_156.png;Na-n alter Strumpf!;gadgetelbowleft;158;0;;;extremities;608
+3;11;Altes Sieb verdammt nochmal!!!_63_238_48_66_137.png;Altes Sieb verdammt nochmal!!!;gadgetelbowright;158;0;;;extremities;608
+6;11;Spinxdinx_67_235_47_49_144.png;Spinxdinx;gadgetelbowright;158;0;;;extremities;928
+3;11;Skarabaeenbinde_191_273_42_44_179.png;Skarabaeenbinde;wristleft;132;0;;;extremities;608
+3;11;Schwitzband_94_282_19_15_167.png;Schwitzband;wristright;132;0;;;extremities;608
+3;12;Bluemerli_111_230_17_21_90.png;Bluemerli;bandagearmright;64;0;;;bandage;180
+3;12;Monokinn_167_195_21_18_77.png;Monokinn;bandagechin;64;0;;;bandage;180
+3;12;Gelbes Auge_223_273_17_17_83.png;Gelbes Auge;bandageelbowleft;64;0;;;bandage;180
+3;12;Untereinser_204_282_19_13_82.png;Untereinser;bandagewristleft;64;0;;;bandage;180
+3;13;Schulterokular_67_193_80_66_188.png;Schulterokular;gadgetarmright;344;0;;;other;1691
+3;13;Justierbares Monokular_103_80_168_119_222.png;Justierbares Monokular;glasses;344;200;;;other;1691
+3;13;Quadrotakular_80_118_183_120_220.png;Quadrotakular;mask;250;0;;;other;1691
+4;0;Beschwoerblasen_49_23_221_105_201.png;Beschwoerblasen;hat;340;0;;;headdress;1143
+6;0;Piratenkrone_55_18_226_181_203.png;Piratenkrone;hat;340;0;;;headdress;1485
+4;1;Ahoi!_112_222_87_99_45.png;Ahoi!;shirt;216;0;;;shirt;572
+4;1;Piratenmurks!_113_221_86_100_64.png;Piratenmurks!;shirt;216;0;;;shirt;572
+4;2;Lauter Loewe_130_253_57_57_53.png;Lauter Loewe;shirtlogo;124;0;;;shirtlogo;191
+4;3;Kleiner Beisser_104_310_103_54_110.png;Kleiner Beisser;belt;278;0;;;belt;915
+4;4;Skullhose_77_307_150_73_43.png;Skullhose;shorts;216;0;;;shorts;743
+4;5;Gesundstrumpf_99_378_123_63_31.png;Gesundstrumpf;socks;92;0;;;socks;286
+4;6;Mit Holzbein_71_383_160_79_102.png;Mit Holzbein;shoes;246;0;;;shoes;800
+4;7;Zipfler_113_77_62_31_21.png;Zipfler;hairclip5;124;0;;;face;249
+4;7;Gesichtskraken_94_147_149_104_214.png;Gesichtskraken;mask;186;0;;;face;249
+4;8;Augenklappen Gucker_118_135_93_41_213.png;Augenklappen Gucker;glasses;308;0;;;glasses;1029
+4;9;Brust Getraenk Oranje_139_221_58_74_124.png;Brust Getraenk Oranje;pack;154;0;;;pack;520
+4;9;Graue Maus_121_222_78_67_128.png;Graue Maus;pack;154;0;;;pack;520
+4;10;Schlaengelchen_85_318_41_53_119.png;Schlaengelchen;chainend;74;0;chain;;chain;440
+4;11;Rote Schleife_196_198_49_69_147.png;Rote Schleife;gadgetarmleft;186;0;;;extremities;715
+4;11;Murksefeuerer_79_202_62_56_186.png;Murksefeuerer;gadgetarmright;186;0;;;extremities;715
+4;11;Hakenarm_216_249_77_41_164.png;Hakenarm;gadgetelbowleft;186;0;;;extremities;715
+4;11;Zyklop_213_251_51_44_159.png;Zyklop;gadgetelbowleft;186;0;;;extremities;715
+4;11;Mentorennase_64_237_48_65_138.png;Mentorennase;gadgetelbowright;186;0;;;extremities;715
+4;11;Unterarmkraken_97_279_23_32_170.png;Unterarmkraken;wristright;154;0;;;extremities;715
+4;12;Oberzweier_105_237_22_17_88.png;Oberzweier;bandagearmright;74;0;;;bandage;212
+4;12;Kniepunkt_122_374_10_8_68.png;Kniepunkt;bandagelegright;74;0;;;bandage;212
+4;12;Wasser_192_285_24_18_79.png;Wasser;bandagewristleft;74;0;;;bandage;212
+4;13;Justierbares Duokular_76_18_167_178_223.png;Justierbares Duokular;glasses;508;250;;;other;1989
+5;0;Schokobaerkopf_42_21_226_189_200.png;Schokobaerkopf;hat;430;0;;;headdress;1314
+5;1;Roboweste_113_222_86_100_66.png;Roboweste;shirt;250;0;;;shirt;657
+5;2;Schoko Baer_125_252_70_62_51.png;Schoko Baer;shirtlogo;156;0;;;shirtlogo;219
+5;3;Murksemania_94_311_119_46_106.png;Murksemania;belt;352;0;;;belt;1051
+5;4;Nasenmodel_78_306_149_73_40.png;Nasenmodel;shorts;260;0;;;shorts;854
+5;5;Nicht fast so gleich_100_379_122_62_35.png;Nicht fast so gleich;socks;118;0;;;socks;329
+5;6;Blitzlaeufer_108_394_97_63_99.png;Blitzlaeufer;shoes;312;0;;;shoes;920
+5;6;Schokobaerfuess_71_392_190_74_98.png;Schokobaerfuess;shoes;312;0;;;shoes;920
+5;7;Vampirzaehne_128_101_74_110_2.png;Vampirzaehne;facelift;156;0;;;face;286
+5;8;Roboknipser_127_133_72_36_211.png;Roboknipser;glasses;350;0;;;glasses;1183
+5;9;Murksetant_125_218_68_93_133.png;Murksetant;pack;196;0;;;pack;597
+5;10;Murksezahn_93_343_18_20_117.png;Murksezahn;chainend;94;0;chain;;chain;505
+5;11;Loewenschoner_77_243_36_31_141.png;Loewenschoner;gadgetelbowright;234;0;;;extremities;821
+5;11;Unterarmschuetzerdings_96_277_25_26_172.png;Unterarmschuetzerdings;wristright;196;0;;;extremities;821
+5;12;Schulter hoch_109_233_22_15_89.png;Schulter hoch;bandagearmright;94;0;;;bandage;243
+5;12;Niemals zahnlos_139_195_30_17_75.png;Niemals zahnlos;bandagechin;94;0;;;bandage;243
+5;12;Hu_81_250_21_20_91.png;Hu;bandageelbowright;94;0;;;bandage;243
+5;12;Luckigucki!_118_372_23_15_70.png;Luckigucki!;bandagelegright;94;0;;;bandage;243
+5;12;Da lang jetzo!_90_270_17_11_92.png;Da lang jetzo!;bandagewristright;94;0;;;bandage;243
+5;13;Murkseschnuefflerumschlingtasche_98_284_186_79_221.png;Murkseschnuefflerumschlingtasche;belt;558;0;;;other;2286
+5;13;Roboarm_180_207_106_93_155.png;Roboarm;gadgetarmleft;558;300;;;other;2286
