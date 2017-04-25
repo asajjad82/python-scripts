@@ -1,8 +1,0 @@
-[config-values]
-startDate = 2017-04-04
-endDate = 2017-04-28
-logfile = index_feed.log
-source_folder = alle_probanden
-data_file = data_feedback_
-prices = new_prices.csv
-csv_headers = date,time,marbles,power,level,display,action,object
